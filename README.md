@@ -74,7 +74,7 @@ Npm Package (NodeJS),
 #### [Freecoursesite](https://freecoursesite.com/the-complete-web-development-bootcamp-4/)
 ### HTML/CSS
 ### JS
-### React
+### React [CheatSheet](https://www.freecodecamp.org/news/react-cheatsheet-with-real-world-examples/)
 ### React Projects
 ### Node.js
 ### MERN stack
