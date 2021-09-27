@@ -18,29 +18,30 @@ This is a updated List of all necessary web dev links and tools used
 #### 1. HTML,CSS,JavaScript Links (Docs):
 [W3Schools](https://www.w3schools.com/),
 [Mozilla Dev](https://developer.mozilla.org/en-US/),
-[DevDocs](Devdocs.io)
+[DevDocs](https://devdocs.io/)
 
-#### 2. [CheatSheet](docs.emmet.io/cheat-sheet/)
+#### 2. [CheatSheet](https://docs.emmet.io/cheat-sheet/)
 
 
 #### 3. Colours:
-[Colorhunt](Colorhunt.co),
+[Colorhunt](https://colorhunt.co/),
 [UIgradient](https://uigradients.com/),
 [FlatUI](https://flatuicolors.com/)
+[Random Hex Generator](https://color-switcher-vanillajs.netlify.app/hex.html)
 
-#### 4. [Favicon](Favicon.cc)
+#### 4. [Favicon](https://www.favicon.cc/)
 
 
 #### 5. Fonts:
-[CSSFont](Cssfontstack.com),
-[Google Fonts](fonts.google.com)
+[CSSFont](https://www.cssfontstack.com/),
+[Google Fonts](https://fonts.google.com/)
 
 #### 6. Icons:
 [FlatIcon](https://www.flaticon.com/),
 [Avatar](https://avatars.dicebear.com/)
 
 #### 7. GIF:
-[Giphy](giphy.com)
+[Giphy](https://giphy.com/)
 
 
 #### 8. Free Photos:
@@ -52,19 +53,19 @@ This is a updated List of all necessary web dev links and tools used
 
 
 #### 9. React Material UI:	
-[Material-UI](material-ui.com)
+[Material-UI](https://mui.com/)
 
-#### 10. [For Transparent Background](transparenttextures.com)
+#### 10. [For Transparent Background](https://transparenttextures.com/)
 
 
 #### 11. Api:
-[Any-Api](any-api.com),
+[Any-Api](https://any-api.com/),
 Npm Package (NodeJS),
-[NpmJs](Npmjs.com)
+[NpmJs](https://www.npmjs.com/)
 
 #### 12. Templates and Designs:
-[UI-Patterns](Ui-patterns.com),
-[Dribbble](dribbble.com),
+[UI-Patterns](http://ui-patterns.com/),
+[Dribbble](https://dribbble.com/),
 [Free-CSS](https://www.free-css.com/),
 [Awaards](https://www.awwwards.com/)
 [Nicepage](https://nicepage.com/templates)
