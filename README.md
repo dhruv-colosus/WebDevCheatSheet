@@ -76,7 +76,7 @@ Npm Package (NodeJS),
 ### HTML/CSS
 ### JS
 ### React [CheatSheet](https://www.freecodecamp.org/news/react-cheatsheet-with-real-world-examples/)
-(React 10 Hours Course)[https://www.youtube.com/watch?v=4UZrsTqkcW4]
+[React 10 Hours Course](https://www.youtube.com/watch?v=4UZrsTqkcW4)
 ### React Projects
 ### Node.js
 ### MERN stack
